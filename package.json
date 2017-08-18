@@ -1,0 +1,25 @@
+{
+  "name": "simple-express-app",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": ">=6"
+  },
+  "main": "hello.js",
+  "scripts": {
+    "start": "node hello.js",
+    "test": "./node_modules/jshint/bin/jshint *.js"
+  },
+  "jshintConfig": {
+    "esversion": 6,
+    "laxbreak": true
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  }
+}
