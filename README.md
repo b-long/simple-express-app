@@ -1,5 +1,7 @@
 # Simple Express App
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/b-long/simple-express-app.svg)](https://greenkeeper.io/)
+
 A bare bones NodeJS / Express application, for demonstration purposes.
 
 To run this module locally:
